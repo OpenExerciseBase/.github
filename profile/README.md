@@ -1,4 +1,8 @@
-<img src="https://raw.githubusercontent.com/OpenExerciseBase/OpenExerciseBase-Web-Platform/main/public/oed_logo_noback.png" alt="OpenExerciseBase" width="320">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OpenExerciseBase/OpenExerciseBase-Web-Platform/main/public/oed_logo.png">
+  <img src="https://raw.githubusercontent.com/OpenExerciseBase/OpenExerciseBase-Web-Platform/main/public/oed_logo_noback.png" alt="OpenExerciseBase" width="320">
+</picture>
+
 # OpenExerciseBase
 
 **An open, evolving infrastructure for structured exercise knowledge.**
